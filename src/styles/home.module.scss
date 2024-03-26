@@ -1,0 +1,7 @@
+@use 'colors' as *;
+
+.home{
+    &__inner{
+        background-color:$color-F7F7F7;
+    }
+}

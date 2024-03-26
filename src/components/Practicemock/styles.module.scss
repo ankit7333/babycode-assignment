@@ -1,0 +1,11 @@
+@use '../../styles/colors' as *;
+
+.label{
+    background-color:$color-FEF9E5;
+}
+.wow{
+    color:$color-04B6D6;
+}
+.progressbox{
+    height:calc(100% - 40px);
+}
